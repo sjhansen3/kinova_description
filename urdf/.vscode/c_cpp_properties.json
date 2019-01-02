@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/sjhansen3/peanut_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/sjhansen3/peanut_ws/src/abb/abb_driver/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include",
+                "/home/sjhansen3/peanut_ws/src/geometric_shapes/include",
+                "/home/sjhansen3/peanut_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2n6s300_ikfast/include",
+                "/home/sjhansen3/peanut_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/j2s7s300_ikfast/include",
+                "/home/sjhansen3/peanut_ws/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include",
+                "/home/sjhansen3/peanut_ws/src/kinova-ros/kinova_driver/include",
+                "/home/sjhansen3/peanut_ws/src/kinova-ros/kinova_moveit/inverse_kinematics_plugins/ikfast/m1n6s300_ikfast/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_planners/chomp/chomp_interface/include",
+                "/home/sjhansen3/peanut_ws/src/moveit_resources/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_ros/benchmarks/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_plugins/moveit_ros_control_interface/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_ros/move_group/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_ros/robot_interaction/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_setup_assistant/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_plugins/moveit_simple_controller_manager/include",
+                "/home/sjhansen3/peanut_ws/src/moveit_visual_tools/include",
+                "/home/sjhansen3/peanut_ws/src/peanut_ros/navigation/peanut_dynamixel/include",
+                "/home/sjhansen3/peanut_ws/src/realsense/realsense2_camera/include",
+                "/home/sjhansen3/peanut_ws/src/moveit/moveit_planners/sbpl/core/sbpl_interface/include",
+                "/home/sjhansen3/peanut_ws/src/srdfdom/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

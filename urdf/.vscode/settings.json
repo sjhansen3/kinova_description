@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sjhansen3/peanut_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages",
+        "/usr/lib/python2.7/dist-packages",
+        "{/opt/ros/kinetic/lib/python2.7/dist-packages",
+        "/home/sjhansen3/peanut_sim/underactuated/src",
+        "/opt/drake/lib/python2.7/site-packages",
+        "}"
+    ]
+}
