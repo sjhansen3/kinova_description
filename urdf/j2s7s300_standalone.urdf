@@ -57,7 +57,7 @@
   <link name="j2s7s300_link_base">
     <visual>
       <geometry>
-        <mesh filename="meshes/base.dae"/>
+        <mesh filename="package://kinova_description/meshes/base.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -65,7 +65,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/base.dae"/>
+        <mesh filename="package://kinova_description/meshes/base.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -85,7 +85,7 @@
   <link name="j2s7s300_link_1">
     <visual>
       <geometry>
-        <mesh filename="meshes/shoulder.dae"/>
+        <mesh filename="package://kinova_description/meshes/shoulder.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -93,12 +93,12 @@
     </visual>
     <visual>
       <geometry>
-        <mesh filename="meshes/ring_big.STL"/>
+        <mesh filename="package://kinova_description/meshes/ring_big.STL"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/shoulder.dae"/>
+        <mesh filename="package://kinova_description/meshes/shoulder.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -128,7 +128,7 @@
   <link name="j2s7s300_link_2">
     <visual>
       <geometry>
-        <mesh filename="meshes/arm_half_1.dae"/>
+        <mesh filename="package://kinova_description/meshes/arm_half_1.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -136,12 +136,12 @@
     </visual>
     <visual>
       <geometry>
-        <mesh filename="meshes/ring_big.STL"/>
+        <mesh filename="package://kinova_description/meshes/ring_big.STL"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/arm_half_1.dae"/>
+        <mesh filename="package://kinova_description/meshes/arm_half_1.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -171,7 +171,7 @@
   <link name="j2s7s300_link_3">
     <visual>
       <geometry>
-        <mesh filename="meshes/arm_half_2.dae"/>
+        <mesh filename="package://kinova_description/meshes/arm_half_2.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -179,12 +179,12 @@
     </visual>
     <visual>
       <geometry>
-        <mesh filename="meshes/ring_big.STL"/>
+        <mesh filename="package://kinova_description/meshes/ring_big.STL"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/arm_half_2.dae"/>
+        <mesh filename="package://kinova_description/meshes/arm_half_2.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -214,7 +214,7 @@
   <link name="j2s7s300_link_4">
     <visual>
       <geometry>
-        <mesh filename="meshes/forearm.dae"/>
+        <mesh filename="package://kinova_description/meshes/forearm.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -222,12 +222,12 @@
     </visual>
     <visual>
       <geometry>
-        <mesh filename="meshes/ring_small.STL"/>
+        <mesh filename="package://kinova_description/meshes/ring_small.STL"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/forearm.dae"/>
+        <mesh filename="package://kinova_description/meshes/forearm.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -257,7 +257,7 @@
   <link name="j2s7s300_link_5">
     <visual>
       <geometry>
-        <mesh filename="meshes/wrist_spherical_1.dae"/>
+        <mesh filename="package://kinova_description/meshes/wrist_spherical_1.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -265,12 +265,12 @@
     </visual>
     <visual>
       <geometry>
-        <mesh filename="meshes/ring_small.STL"/>
+        <mesh filename="package://kinova_description/meshes/ring_small.STL"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/wrist_spherical_1.dae"/>
+        <mesh filename="package://kinova_description/meshes/wrist_spherical_1.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -300,7 +300,7 @@
   <link name="j2s7s300_link_6">
     <visual>
       <geometry>
-        <mesh filename="meshes/wrist_spherical_2.dae"/>
+        <mesh filename="package://kinova_description/meshes/wrist_spherical_2.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -308,12 +308,12 @@
     </visual>
     <visual>
       <geometry>
-        <mesh filename="meshes/ring_small.STL"/>
+        <mesh filename="package://kinova_description/meshes/ring_small.STL"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/wrist_spherical_2.dae"/>
+        <mesh filename="package://kinova_description/meshes/wrist_spherical_2.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -343,7 +343,7 @@
   <link name="j2s7s300_link_7">
     <visual>
       <geometry>
-        <mesh filename="meshes/hand_3finger.dae"/>
+        <mesh filename="package://kinova_description/meshes/hand_3finger.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -351,12 +351,12 @@
     </visual>
     <visual>
       <geometry>
-        <mesh filename="meshes/ring_small.STL"/>
+        <mesh filename="package://kinova_description/meshes/ring_small.STL"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/hand_3finger.dae"/>
+        <mesh filename="package://kinova_description/meshes/hand_3finger.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -405,7 +405,7 @@
   <link name="j2s7s300_link_finger_1">
     <visual>
       <geometry>
-        <mesh filename="meshes/finger_proximal.dae"/>
+        <mesh filename="package://kinova_description/meshes/finger_proximal.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -413,7 +413,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/finger_proximal.dae"/>
+        <mesh filename="package://kinova_description/meshes/finger_proximal.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -456,7 +456,7 @@
   <link name="j2s7s300_link_finger_2">
     <visual>
       <geometry>
-        <mesh filename="meshes/finger_proximal.dae"/>
+        <mesh filename="package://kinova_description/meshes/finger_proximal.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -464,7 +464,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/finger_proximal.dae"/>
+        <mesh filename="package://kinova_description/meshes/finger_proximal.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -507,7 +507,7 @@
   <link name="j2s7s300_link_finger_3">
     <visual>
       <geometry>
-        <mesh filename="meshes/finger_proximal.dae"/>
+        <mesh filename="package://kinova_description/meshes/finger_proximal.dae"/>
       </geometry>
       <material name="carbon_fiber">
         <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1"/>
@@ -515,7 +515,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="meshes/finger_proximal.dae"/>
+        <mesh filename="package://kinova_description/meshes/finger_proximal.dae"/>
       </geometry>
     </collision>
     <inertial>
